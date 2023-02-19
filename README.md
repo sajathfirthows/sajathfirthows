@@ -1,6 +1,6 @@
 # **Hi 👋, I'm Mohammed Sajath Firthows**
 
-Undergraduate - Networking | Cloud Computing ☁️ Enthusiast
+Undergraduate - Networking | DevOps Enthusiast | Linux | AWS | Docker | Jenkins | Terraform
 
 
 
@@ -10,11 +10,7 @@ Undergraduate - Networking | Cloud Computing ☁️ Enthusiast
 
 
 
-💻I am currently an Undergraduate Student in Network Engineering.
-
-♾️Currently I am learning for DevOps.
-
-👨‍💼I am developing skills in Cloud like AWS & Azure with that learning Git, Docker & CI/CD pipeline.
+💻I am an Undergraduate Student in Network Engineering and having 6 months plus of experience. Focusing on DevOps with a passion for driving efficiency. Gaining Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
 
 🎭I am looking for DevOps oppurtunities to expose my skills which I have gained from myself.
 

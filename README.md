@@ -1,4 +1,4 @@
-# **Hi 👋, I am Sajath Firthows**
+# **Hi 👋, I'm Sajath Firthows**
 
 Trainee DevOps Engineer | Undergraduate - Networking | Cloud Enthusiast | Linux | AWS | Docker | Jenkins | Terraform
 

@@ -6,7 +6,7 @@ Trainee DevOps Engineer | Undergraduate - Network Technology & Cyber Security | 
 
 <hr style="border:2px solid gray">
 
-
+[![An image of @sajathfirthows's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajathfirthows)](https://holopin.io/@sajathfirthows)
 
 
 
@@ -26,7 +26,6 @@ Trainee DevOps Engineer | Undergraduate - Network Technology & Cyber Security | 
 ## 💻 My Skill Set :  
 <table><tr><td valign="top" width="33%">
 
-[![An image of @sajathfirthows's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajathfirthows)](https://holopin.io/@sajathfirthows)
 
 ###     Tech Stack  
 <div align="center">  

@@ -10,7 +10,7 @@ Trainee DevOps Engineer | Undergraduate - Network Technology & Cyber Security | 
 
 
 
-💻I am an Undergraduate Student in Network Technology & Cyber Security and having 6 months plus of experience. Focusing on DevOps with a passion for driving efficiency. Gaining Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
+💻Trainee DevOps Engineer and an undergraduate student. Gaining Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
 
 🎭Through my dedication and hard work, I have demonstrated my ability to learn quickly and adapt to new challenges. With my passion for DevOps, I am continually motivated to learn more and improve my skills to achieve success in my field, and I look forward to the opportunities that will enable me to do so.
 

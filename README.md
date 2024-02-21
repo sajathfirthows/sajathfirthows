@@ -6,14 +6,13 @@
 ![](https://img.shields.io/github/followers/sajathfirthows?color=brightgreen&style=fla&logo=github)
 
 
-Trainee DevOps Engineer | Undergraduate - Network Technology & Cyber Security | Cyber Security Enthusiast | DevSecOps | AWS | Docker | Jenkins | Terraform
-
 
 <hr style="border:2px solid gray">
 
 [![An image of @sajathfirthows's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sajathfirthows)](https://holopin.io/@sajathfirthows)
 
 
+Trainee DevOps Engineer | Undergraduate - Network Technology & Cyber Security | Cyber Security Enthusiast | DevSecOps | AWS | Docker | Jenkins | Kubernetes | Terraform 💻
 
 💻Trainee DevOps Engineer and an undergraduate student. Gaining Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
 

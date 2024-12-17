@@ -16,7 +16,7 @@
 
 
 
-💻Trainee DevOps Engineer and an undergraduate student. Gaining Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
+💻Associate Cloud Engineer, gained Skills in using a variety of DevOps tools, such as CI/CD pipelines, infrastructure as code (IaC), and monitoring and logging systems. Committed to staying up-to-date with the latest DevOps practices and technologies.
 
 🎭Through my dedication and hard work, I have demonstrated my ability to learn quickly and adapt to new challenges. With my passion for DevOps, I am continually motivated to learn more and improve my skills to achieve success in my field, and I look forward to the opportunities that will enable me to do so.
 
